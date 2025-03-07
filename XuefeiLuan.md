@@ -3,6 +3,7 @@
 ## Hey there! 🎉
 
 Hi, my name is **Xuefei Luan**, but you can call me **Sophie**—because let's be honest, it’s way easier to pronounce when you're in a rush! 😆 I’m from **China** and currently diving deep into the world of **Computer Graphics and Music Programming**.
+![Meme](https://images.app.goo.gl/xzQuXjScrQXgJv667)
 
 ## What I Love ❤️
 - 🎨 Art: Whether it’s digital, traditional, or just doodling in the margins of my notes, I love it all!
