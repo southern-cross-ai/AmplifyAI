@@ -1,68 +1,200 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Guild Content</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ultimate game space</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', sans-serif;
+        }
 
-    body {
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #222, #555);
-      color: #fff;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    }
+        body {
+            background: #0a0a0a;
+            color: #fff;
+            overflow-x: hidden;
+        }
 
-    .container {
-      text-align: center;
-      padding: 40px;
-      background: rgba(0, 0, 0, 0.7);
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
-    }
+        .neon-header {
+            text-align: center;
+            padding: 100px 0;
+            background: linear-gradient(45deg, #000000, #1a1a1a);
+            position: relative;
+            overflow: hidden;
+        }
 
-    h1 {
-      font-size: 3rem;
-      margin-bottom: 20px;
-    }
+        .neon-title {
+            font-size: 4em;
+            text-transform: uppercase;
+            animation: neonGlow 2s infinite alternate;
+            text-shadow: 0 0 5px #00f7ff,
+                       0 0 10px #00f7ff,
+                       0 0 20px #00f7ff;
+        }
 
-    p {
-      font-size: 1.2rem;
-      margin-bottom: 30px;
-    }
+        @keyframes neonGlow {
+            from {
+                text-shadow: 0 0 5px #00f7ff,
+                           0 0 10px #00f7ff;
+            }
+            to {
+                text-shadow: 0 0 20px #00f7ff,
+                           0 0 30px #00f7ff,
+                           0 0 40px #00f7ff;
+            }
+        }
 
-    .button {
-      display: inline-block;
-      padding: 12px 24px;
-      font-size: 1rem;
-      color: #222;
-      background-color: #f4d03f;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: background-color 0.3s ease;
-    }
+        .game-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 50px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
 
-    .button:hover {
-      background-color: #d4ac0d;
-    }
-  </style>
+        .game-card {
+            background: rgba(25, 25, 25, 0.9);
+            border-radius: 15px;
+            padding: 25px;
+            transition: 0.3s;
+            border: 2px solid #2a2a2a;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .game-card:hover {
+            transform: translateY(-10px);
+            border-color: #00f7ff;
+            box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);
+        }
+
+        .card-icon {
+            font-size: 2.5em;
+            color: #00f7ff;
+            margin-bottom: 20px;
+        }
+
+        .cyber-button {
+            background: none;
+            border: 2px solid #00f7ff;
+            color: #00f7ff;
+            padding: 12px 30px;
+            font-size: 1.2em;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            transition: 0.3s;
+        }
+
+        .cyber-button:hover {
+            background: #00f7ff;
+            color: #000;
+            box-shadow: 0 0 20px rgba(0, 247, 255, 0.4);
+        }
+
+        .matrix-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            opacity: 0.1;
+        }
+
+        @media (max-width: 768px) {
+            .neon-title {
+                font-size: 2.5em;
+            }
+            .game-grid {
+                padding: 20px;
+            }
+        }
+    </style>
 </head>
 <body>
+    <canvas class="matrix-bg" id="matrix"></canvas>
+    
+    <header class="neon-header">
+        <h1 class="neon-title">游戏次元</h1>
+    </header>
 
-  <div class="container">
-    <h1>WARNING</h1>
-    <h1>Guild Content Hub</h1>
-    <p>Welcome to the adventure. Get ready to play!</p>
-    <a href="#" class="button">Start Game</a>
-  </div>
+    <div class="game-grid">
+        <div class="game-card">
+            <i class="fas fa-gamepad card-icon"></i>
+            <h3>Extreme control</h3>
+            <p>A precise control system designed for hardcore gamers to experience zero latency</p>
+        </div>
+
+        <div class="game-card">
+            <i class="fas fa-vr-cardboard card-icon"></i>
+            <h3>Immersion experience</h3>
+            <p>Support 4K HDR and ray tracing technology to create a cinematic visual feast</p>
+        </div>
+
+        <div class="game-card">
+            <i class="fas fa-users card-icon"></i>
+            <h3>Multi-player competition</h3>
+            <p>Connect global servers and join epic multiplayer battles at any time</p>
+        </div>
+
+        <div class="game-card">
+            <i class="fas fa-trophy card-icon"></i>
+            <h3>Equipment system</h3>
+            <p>More than 500 unique items await your challenge</p>
+        </div>
+    </div>
+
+    <div style="text-align: center; padding: 50px">
+        <button class="cyber-button">Join the battlefield immediately</button>
+    </div>
+
+    <script>
+        // 创建矩阵数字雨背景
+        const canvas = document.getElementById('matrix');
+        const ctx = canvas.getContext('2d');
+        
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%^&*';
+        const drops = [];
+        
+        const fontSize = 14;
+        const columns = canvas.width/fontSize;
+
+        for(let x = 0; x < columns; x++) {
+            drops[x] = 1;
+        }
+
+        function drawMatrix() {
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            ctx.fillStyle = '#0F0';
+            ctx.font = fontSize + 'px monospace';
+
+            for(let i = 0; i < drops.length; i++) {
+                const text = chars[Math.floor(Math.random() * chars.length)];
+                ctx.fillText(text, i*fontSize, drops[i]*fontSize);
+
+                if(drops[i]*fontSize > canvas.height && Math.random() > 0.975) {
+                    drops[i] = 0;
+                }
+                drops[i]++;
+            }
+        }
+
+        setInterval(drawMatrix, 50);
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        });
+    </script>
 </body>
 </html>
