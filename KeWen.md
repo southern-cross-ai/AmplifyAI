@@ -38,18 +38,6 @@
 
 ---
 
-### 🏗 **Desk Ergonomics Expert**  
-**"If it's on the desk, it must be knocked off."**  
-![Desk Inspector Cat](https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif)  
-
----
-
-### 🛑 **Break Enforcer**  
-**"When I sit on your lap, it's break time. No excuses."**  
-![Lap Cat](https://media.giphy.com/media/Q56ZI04r6CakM/giphy.gif)  
-
----
-
 ### 💤 **Energy Conservation Specialist**  
 **"Napping is an art. I am the master."**  
 ![Sleeping Boss Cat](https://media.giphy.com/media/jQ5cCLeNsxwhq/giphy.gif)  
