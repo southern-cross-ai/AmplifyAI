@@ -1,5 +1,7 @@
 # 🎮 Content Team
 
+---
+
 ## 🏗 Key Responsibilities  
 
 ### ✍ Writing & Dialogue Support  
