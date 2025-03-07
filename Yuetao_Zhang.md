@@ -1,73 +1,57 @@
-# Project Name
+# 👋 Hello, World! I'm Yuetao Zhang
 
-game part content
+## 🎭 About Me  
+- 🎓 A passionate **developer**, a curious **explorer**, and a lifelong **learner**.  
+- 💻 Coding is my **superpower**; debugging is my **adventure**.  
+- 🎮 Love **game**, AI, and crafting immersive digital experiences.  
+- ☕ Coffee fuels my **brain**, and memes fuel my **soul**.  
 
-## Introduction
+## 🛠️ Tech Stack  
+🚀 **Languages:** C++, Python, Java, JavaScript  
+🎮 **Game Engines:** Unreal Engine, Unity3D  
+📊 **Databases:** MySQL, Redis  
+⚡ **Other Cool Stuff:** Linux, I/O Multiplexing, Coroutines  
 
-A brief description of your project.
+## 🌟 Fun Facts  
+- 🏆 **Mastered the art of Stack Overflow searches.**  
+- 🔥 **Once fixed a bug just by staring at the screen long enough.**  
+- 🎵 **Code better when listening to Lo-Fi beats.**  
+- 🐱 **Believes GitHub commits are modern-day diary entries.**  
 
-## Table of Contents
+## 🎮 Gaming Experience  
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+### ⚔️ Action Games (500h+)  
+- Monster Hunter  
+- Cyberpunk 2077  
+- The Legend of Zelda series  
 
-## Features
+### 🏆 PvP Games (1000h+)  
+- League of Legends (LoL)  
+- Apex Legends  
+- Counter-Strike 2 (CS2)  
 
-- Key feature 1
-- Key feature 2
-- Key feature 3
+### 🔄 Roguelike Games (1000h+)  
+- The Binding of Isaac  
+- Hades  
+- Dead Cells  
 
-## Installation
+### 💎 PvE Loot-based Games (800h+)  
+- The Division series  
+- Destiny 2  
+- Borderlands series  
 
-### Dependencies
+### ♟️ Turn-based Games (300h+)  
+- Pokémon series  
+- Etrian Odyssey  
+- Darkest Dungeon  
 
-- Dependency 1
-- Dependency 2
-- Dependency 3
-
-### Installation Steps
-
-```bash
-# Clone the repository
-git clone https://github.com/southern-cross-ai/-Content-.git
-
-# Navigate to the project directory
-cd -Content-
-
-# Install dependencies
-yarn install  # or npm install
-```
-
-## Usage
-
-```bash
-# Run the project
-yarn start  # or npm run start
-```
-
-For more usage details, refer to the [Documentation](path/to/docs).
-
-## Configuration
-
-The project supports custom configuration. You can modify settings in `config.json` or use environment variables.
-
-## Contributing
-
-Contributions are welcome! Please read the [Contributing Guide](path/to/contributing.md) to learn how to contribute.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-- Email: u7748559@anu.edu.au
-- Website: [yuetao_zhang.com](https://github.com/YuetaoZhang)
-- Discussion: [GitHub Discussions](https://github.com/your-username/your-project/discussions)
-
+### 🎭 JRPGs (300h+)  
+- Persona series  
+- Xenoblade Chronicles  
+- Octopath Traveler
+  
+## 🚀 Let's Connect!  
+📧 Email: u7748559@anu.edu.au 
+🌐 Website: [YuetaoZhang-website.com](https://github.com/YuetaoZhang)
+🐦 Twitter: [@YuetaoZhanghandle](https://twitter.com/yourhandle)  
+📖 GitHub: [YuetaoZhang-github](https://github.com/YuetaoZhang)
