@@ -23,6 +23,8 @@ a **data whisperer**, and an **AI enthusiast**
 
 Also considering make a perfect work in COMP8715 if my life allowed! 
 
+Will hard working!!! 💪
+
 P.S: Why we should stay in HIVE !!! 😡
 
 Anyway hope this semester everything going well🙏
