@@ -19,8 +19,7 @@ a **data whisperer**, and an **AI enthusiast**
 # 🎯 My Target in this Semester! 
 # SUCCESSFULLY GRADUATE!
 
-![Meme](https://preview.redd.it/what-type-of-cat-is-this-in-the-crying-cat-meme-is-it-a-v0-52qf8tr9g8g81.jpg?auto=webp&s=fcb5cfd006a449f6d680788830f3c4cfdd13622e![image](https://github.com/user-attachments/assets/19fe9427-06af-40e0-ac94-707459e5a84b)
-)
+![Meme](https://preview.redd.it/what-type-of-cat-is-this-in-the-crying-cat-meme-is-it-a-v0-52qf8tr9g8g81.jpg?auto=webp&s=fcb5cfd006a449f6d680788830f3c4cfdd13622e)
 
 Also considering make a perfect work in COMP8715 if my life allowed! 
 
