@@ -1,3 +1,4 @@
 # 🥱 The Guild - Content Team 🥱 
 We are the content team and we are the most sleepy team in the HIVE. 
-![meme1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lead.app%2Fhow-to-create-ms-teams-memes-with-examples%2F&psig=AOvVaw1x7uECrG-kPYvddV92pA3E&ust=1741402071799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODT8bP69osDFQAAAAAdAAAAABAE!)
+![meme1](https://i0.wp.com/www.lead.app/wp-content/uploads/2023/08/How-to-Create-MS-Teams-Memes-LEAD.bot_-1.png?fit=1200%2C628&ssl=1![image](https://github.com/user-attachments/assets/f9242f5c-5b88-420e-8dcc-3e1dd07dd62c)
+)
