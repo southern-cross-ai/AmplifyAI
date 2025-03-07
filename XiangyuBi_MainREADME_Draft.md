@@ -6,5 +6,5 @@ Just kidding, here is the formal team introduction:
 
 The content group will be responsible for taking the gameplay loop that that is being developed and build content for it. This will come primarily in the form of mapping out what a game mission looks like as well as the general structure of the campaign.
 
-# 🎯 Project Description 🎯 
+# 🙎 Team Members 👨👽🦕🐔🐟
 ## 
