@@ -28,4 +28,4 @@ Status: In Progress
 - Long-term: Beautiful and fancy game presentation.
 
 # The Following is not important
-![doge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ifanr.com%2Fapp%2F1413693&psig=AOvVaw0xXMwDMUZVhdPJKQ8ZBgJk&ust=1741396572691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNig8vPl9osDFQAAAAAdAAAAABAE)
+![doge]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ifanr.com%2Fapp%2F1413693&psig=AOvVaw0xXMwDMUZVhdPJKQ8ZBgJk&ust=1741396572691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNig8vPl9osDFQAAAAAdAAAAABAE](https://s3.ifanr.com/wp-content/uploads/2021/04/dogecoin-1200x628.jpeg!720))
