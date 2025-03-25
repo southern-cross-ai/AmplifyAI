@@ -18,4 +18,38 @@ We aim to:
 
 By working together, we are laying the foundation for an AI-powered future where knowledge, innovation, and collaboration thrive. Let’s make it happen! 💡💪🔥
 
+---
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"> <img src="./TeamProfilePics/1.png" width="100px;"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"> <img src="./TeamProfilePics/2.png" width="100px;"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"> <img src="./TeamProfilePics/3.png" width="100px;"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"> <img src="./TeamProfilePics/4.png" width="100px;"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"> <img src="./TeamProfilePics/5.png" width="100px;"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"> <img src="./TeamProfilePics/6.png" width="100px;"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"> <img src="./TeamProfilePics/7.png" width="100px;"></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
 [📄Statement of Work✒️](https://docs.google.com/document/d/1eq5HK3yWepCNZTHTYuJw4xL2f_AI02uAox3tydKgKr4/edit?usp=sharing)
