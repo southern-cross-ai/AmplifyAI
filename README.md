@@ -93,4 +93,6 @@ By working together, we are laying the foundation for an AI-powered future where
 
 If you want to know more about Southern Cross AI and our team: 
 
-🎙️[Official Discord]()
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-alt-512.png" width="20px;">](https://discord.gg/EvXbsjGC)[ Official Discord ](https://discord.gg/EvXbsjGC)
+
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" width="20px;">](https://x.com/AiSouthernCross)[ Official Twitter ](https://x.com/AiSouthernCross)
