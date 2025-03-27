@@ -77,7 +77,7 @@ By working together, we are laying the foundation for an AI-powered future where
 
 [3. 2025 Semester 1 Weekly Report (fortnight)]()
 
-[4. 2025 Semester 1 Decision Log]()
+[4. 2025 Semester 1 Decision Log](https://anu365-my.sharepoint.com/:x:/r/personal/u7705888_anu_edu_au/Documents/DecisionLog_AmplifyAI.xlsx?d=wf5cf6f22daa54d33b861daf8d82b0194&csf=1&web=1&e=lFjE9c)
 
 [5. 2025 Semester 1 Meeting Record]()
 
