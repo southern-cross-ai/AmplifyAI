@@ -81,7 +81,7 @@ By working together, we are laying the foundation for an AI-powered future where
 
 [5. 2025 Semester 1 Meeting Record]()
 
-[6. Risk Management Document]()
+[6. Risk Management Document](./RiskManagementDocument.md)
 
 [7. Feedback Log]() 
 
