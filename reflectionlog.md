@@ -27,3 +27,14 @@ This table summarizes the key challenges we encountered during our project, as w
 
 ![Sprint 1 Progress](ReflectionLog/burn_chart_sprint1.png)
 
+---
+
+## 🔍 Sprint 1 Retrospective – Problem-Based Reflection
+
+| ❗ Issue | 💡 Reflection & Lessons Learned | 🔧 Sprint 2 Improvement Actions |
+|--------|-------------------------------|---------------------------------|
+| **Unclear Sprint Goals**<br>Lack of focus in tasks, and the team lacked a unified direction during execution. | Realized the importance of clear goals for task breakdown and execution focus. Without a clear goal, resources can be scattered and efficiency reduced. Sprint goals should be specific and measurable to keep the team aligned. | Set clear phase goals before starting the Sprint, break them into actionable sub-tasks, and display them on the project board to keep the team aligned and track progress. |
+| **Delayed Task Process Updates, Lack of Visualization**<br>GitHub Project was not updated in time, and the process could not be viewed intuitively. | Learned the impact of timely and visible process records on team collaboration efficiency and external communication. | Establish a GitHub Project usage standard, ensuring that task statuses are updated in real-time and processes are transparent for team collaboration and external review. |
+| **CSS Style Conflicts in Website Development**<br>Parallel development led to page layout issues, and styles conflicted with each other. | In frontend collaboration, the lack of unified style conventions led to conflicts between modules, impacting page stability. We realized the need to establish consistent development conventions to reduce interference. | In the next phase, we will attempt to unify style conventions and structure design, and explore frontend collaboration methods suited to the team to gradually reduce conflicts. |
+
+
