@@ -29,7 +29,16 @@ This table summarizes the key challenges we encountered during our project, as w
 
 ---
 
-## 3️⃣ Sprint 1 Retrospective – Problem-Based Reflection
+## 3️⃣ 🌟 Sprint 1 Highlights (What Went Well)
+
+| ✅ **Highlight** | 💡 **Description** |
+|------------------|-------------------|
+| **Tasks Completed on Time with Stable Progress** | Based on the overall Sprint 1 progress and the burndown chart, most tasks were completed within the planned timeframe. Task distribution was reasonable and execution was steady. |
+| **Strong Team Collaboration** | Team members communicated effectively and worked closely together. With in-person meetings and support from tools, tasks were well executed under a clear division of labor. |
+
+---
+
+## 4️⃣ 🔍 Sprint 1 Retrospective – Problem-Based Reflection
 
 | ❗ Issue | 💡 Reflection & Lessons Learned | 🔧 Sprint 2 Improvement Actions |
 |--------|-------------------------------|---------------------------------|
