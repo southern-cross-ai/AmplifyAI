@@ -1,8 +1,8 @@
-# 📘 Project Reflection Overview
+# 📘 Project Reflection 
+
+## 1️⃣ Tutor & Client Feedback Reflection
 
 This table summarizes the key challenges we encountered during our project, as well as the feedback and suggestions provided by our **tutor** and **client**. It also outlines how we responded and improved our workflow and documentation accordingly.
-
----
 
 | 🌟 **Reflection Area** | 🧠 **Background** | ⚠️ **Problems Identified** | 🔧 **What We Improved** | ✅ **Outcome / Notes** | 👥 **Executor** |
 |------------------------|------------------|-----------------------------|--------------------------|------------------------|--------------|
@@ -11,7 +11,9 @@ This table summarizes the key challenges we encountered during our project, as w
 
 ---
 
-## 🚀 Sprint 1: Setup Phase
+## 2️⃣ Sprint 1 Overview & Burndown Chart
+
+### 🚀 Sprint 1: Setup Phase Objectives & Tasks
 
 | 🏁 **Main Objective** | 🔧 **Subtasks** |
 |------------------------|----------------------------|
@@ -21,15 +23,13 @@ This table summarizes the key challenges we encountered during our project, as w
 | **4. Initial Content Publishing** | - Publish one post on each platform as the first round of content testing |
 | **5. Multimedia Studio Orientation** | - Visit the video and podcast studio to understand basic setup and equipment use |
 
----
-
-## 📉 Sprint 1 Burndown Chart
+### 📉 Sprint 1 Burndown Chart
 
 ![Sprint 1 Progress](ReflectionLog/burn_chart_sprint1.png)
 
 ---
 
-## 🔍 Sprint 1 Retrospective – Problem-Based Reflection
+## 3️⃣ Sprint 1 Retrospective – Problem-Based Reflection
 
 | ❗ Issue | 💡 Reflection & Lessons Learned | 🔧 Sprint 2 Improvement Actions |
 |--------|-------------------------------|---------------------------------|
