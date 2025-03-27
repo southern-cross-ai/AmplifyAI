@@ -85,7 +85,7 @@ By working together, we are laying the foundation for an AI-powered future where
 
 [7. Feedback Log]() 
 
-[8. Stakeholder Analysis]() 
+[8. Stakeholder Analysis](https://docs.google.com/document/d/1BMRWgrukCeWDVYKDNYrEYXLBc7X9g9iDHrKtba-464k/edit?tab=t.0) 
 
 ---
 
