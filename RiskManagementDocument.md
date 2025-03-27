@@ -19,8 +19,9 @@ This risk management plan applies to all aspects of the AmplifyAI project, inclu
 
 ## 3. 🧭 Risk Identification & Assessment
 
-| Risk ID | Risk Description                                                | Likelihood | Impact | Risk Level | Category     |
+| Risk ID | Risk Description                                                 | Likelihood | Impact | Risk Level | Category     |
 |---------|------------------------------------------------------------------|------------|--------|------------|--------------|
+| R0      | Late project initiation due to changes in project direction      | High       | High   | Critical   | Planning     |
 | R1      | Inconsistent branding across platforms                           | Medium     | High   | High       | Reputation   |
 | R2      | Delays in website development (Jekyll setup, deployment)         | Medium     | High   | High       | Technical    |
 | R3      | Low social media engagement or reach                             | High       | Medium | High       | Engagement   |
@@ -35,7 +36,8 @@ This risk management plan applies to all aspects of the AmplifyAI project, inclu
 ## 4. 🛠 Risk Response Strategies
 
 | Risk ID | Mitigation Strategy                                                                 | Contingency Plan                                           |
-|---------|--------------------------------------------------------------------------------------|------------------------------------------------------------|
+|---------|-------------------------------------------------------------------------------------|------------------------------------------------------------|
+| R0      | Re-scope the project with clearly defined deliverables and realistic timelines      | Prioritize core outcomes and adopt agile iterations        |
 | R1      | Develop and document brand style guide; review all content before publishing        | Conduct weekly audits to ensure consistency               |
 | R2      | Create a detailed website development timeline; assign clear responsibilities       | Use backup website templates to ensure minimum viable product (MVP) |
 | R3      | Analyze audience behavior using Metricool; adjust content strategy regularly        | Collaborate with partner pages or influencers             |
