@@ -12,5 +12,5 @@ This table summarizes the key challenges we encountered during our project, as w
 ---
 ## 📉 Sprint 1 Burndown Chart
 
-![Sprint 1 Progress](./images/sprint1-burndown.png)
+![Sprint 1 Progress](ReflectionLog/burn_chart1.png)
 
