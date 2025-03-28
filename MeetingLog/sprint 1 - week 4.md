@@ -9,8 +9,7 @@
 ### **1. 🎯 Meeting Objective**  
 1. Finalize **Jekyll to GitHub Pages workflow** for website deployment.  
 2. Complete **Metricool integration** with social media accounts.  
-3. Introduce new Team Lead **Dale Rogers** and streamline messaging workflows.  
-4. Initiate **Discord channel setup** for internal communication.  
+3. Initiate **Discord channel setup** for internal communication.  
 
 ---
 
@@ -44,14 +43,6 @@
     - Content planning  
   - Invite all team members and enforce documentation of key decisions.  
 
-#### **D. New Team Lead Introduction**  
-- **Dale Rogers** (Messaging & Admin Lead):  
-  - Role: Oversee communications, content consistency, and administrative workflows.  
-  - Immediate Tasks:  
-    - Audit existing messaging across platforms.  
-    - Streamline approval processes for social/content releases.  
-  - Contact: `hello@dalerogers.com.au`  
-
 ---
 
 ### **3. 🚀 Logistics & Next Steps**  
@@ -65,8 +56,7 @@
 ### **4. ✅ Action Items**  
 1. **JEANCODE Testing**: Frontend team to validate and push updates (Deadline: March 23rd).  
 2. **Metricool Validation**: Confirm all accounts are linked and branded (Owner: Social Media Subgroup).  
-3. **Discord Setup**: Create server and invite members (Owner: Tech Ops Team).  
-4. **Welcome Dale**: Schedule 1:1 intro sessions with Dale by March 25th.  
+3. **Discord Setup**: Create server and invite members (Owner: Tech Ops Team).   
 
 **Prepared by**: Yuhang Chen  
 **Date**: March 28st, 2025  
