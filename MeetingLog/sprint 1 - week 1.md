@@ -1,7 +1,7 @@
 # 📅 Meeting Record
 
 **Date:** March 14, 2025  
-**Time:** 9 - 11 AM
+**Time:** 9-11 AM  
 **Location:** the Hive
 
 ---
