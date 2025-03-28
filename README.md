@@ -89,10 +89,17 @@ By working together, we are laying the foundation for an AI-powered future where
 
 ---
 
-# ☎️ Connect With Us 📧 
+# Contact Us -- Social Media Links
 
-If you want to know more about Southern Cross AI and our team: 
+Stay connected with us across all platforms:
 
-[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-alt-512.png" width="20px;">](https://discord.gg/EvXbsjGC)[ Official Discord ](https://discord.gg/EvXbsjGC)
+- **Twitter / X**: [@AiSouthernCross](https://x.com/AiSouthernCross)  
+- **Instagram**: [southerncross.ai](https://www.instagram.com/southerncross.ai/?hl=en)  
+- **Threads**: [@southerncross.ai](https://www.threads.net/@southerncross.ai?xmt=AQGzfTXSoofTlNqEWzhaGzjwM2MXo0vUjI7RfvLIoNM-8XY)  
+- **Facebook**: [Southern Cross AI](https://www.facebook.com/profile.php?id=61574539347866)  
+- **YouTube**: [Southern Cross AI Channel](https://www.youtube.com/channel/UC0BLqMoQkvRVxJ4Hip6oM2Q)
+- **TikTok**: [Southern Cross AI](https://www.tiktok.com/@southern.cross.ai?lang=en)
+---
 
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" width="20px;">](https://x.com/AiSouthernCross)[ Official Twitter ](https://x.com/AiSouthernCross)
+🌟 Follow us and be part of the movement to grow the Southern Cross AI community!
+
