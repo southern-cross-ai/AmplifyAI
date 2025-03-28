@@ -71,5 +71,5 @@
 3. Share Adobe Express prototypes for team review.
 
 
-**Prepared by**: Yuhang Chen
-**Date**: March 21st, 2025
+**Prepared by**: Yuhang Chen  
+**Date**: March 21st, 2025  
