@@ -73,6 +73,3 @@
 
 **Prepared by**: Yuhang Chen
 **Date**: March 21st, 2025
-
----  
-**⚠️ Reminder**: All work must be conducted **on-site** per TechLauncher rules.
