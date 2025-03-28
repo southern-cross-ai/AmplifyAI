@@ -17,8 +17,8 @@
 
 #### **A. Jekyll & GitHub Pages Workflow Finalization**  
 - **Process**:  
-  1. **Local Editing with JEANCODE**:  
-     - Upload existing web pages to JEANCODE for local testing and modifications.  
+  1. **Local Editing with Jekyll**:  
+     - Upload existing web pages to jekyll for local testing and modifications.  
      - Validate functionality and design consistency before deployment.  
   2. **Automated Deployment**:  
      - Push finalized code to GitHub repository.  
@@ -54,7 +54,7 @@
 ---
 
 ### **4. ✅ Action Items**  
-1. **JEANCODE Testing**: Frontend team to validate and push updates (Deadline: March 23rd).  
+1. **Jekyll Testing**: Frontend team to validate and push updates (Deadline: March 23rd).  
 2. **Metricool Validation**: Confirm all accounts are linked and branded (Owner: Social Media Subgroup).  
 3. **Discord Setup**: Create server and invite members (Owner: Tech Ops Team).   
 
