@@ -49,7 +49,7 @@ Formalize the new team structure, define responsibilities for the **Content Grou
 1. team composition and notify TL admins.  
 2. Sign legal agreements by April 16th.  
 3. Draft semester goals and share with Matt for feedback.  
-4. Set up and populate the GitHub repository by March 7th.  
+4. Set up and populate the GitHub repository by March 7th.
 
-**Prepared by**: Yuetao Zhang
-**Date**: March 9th, 2025  
+**Prepared by**: Yuetao Zhang  
+**Date**: March 9th, 2025 
