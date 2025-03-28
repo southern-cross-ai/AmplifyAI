@@ -1,4 +1,4 @@
-# 🌟meeting
+# 📅 Meeting Record
 
 **Date:** March 14, 2025  
 **Time:** 9 - 11 AM
