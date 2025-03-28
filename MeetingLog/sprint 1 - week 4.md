@@ -1,6 +1,6 @@
 **📅 Meeting Record: Week 4**  
 
-**Date:** March 28st, 2025  
+**Date:** March 28th, 2025  
 **Time:** 9–11 AM  
 **Location:** The Hive  
 
