@@ -1,4 +1,4 @@
-# 📅 Meeting Record: Team Re-Formation & Content Group Kick-off  
+# 📅 Meeting Record
 
 **Date:** March 7th, 2025  
 **Time:** 9–11 AM 
