@@ -73,7 +73,7 @@ By working together, we are laying the foundation for an AI-powered future where
 
 [1. Statement of Work](https://docs.google.com/document/d/1eq5HK3yWepCNZTHTYuJw4xL2f_AI02uAox3tydKgKr4/edit?usp=sharing)
 
-[2. Team Charter]() 
+[2. Team Charter](https://github.com/southern-cross-ai/AmplifyAI/blob/main/Team%20Charter.pdf) 
 
 [3. 2025 Semester 1 Weekly Report (fortnight)]()
 
