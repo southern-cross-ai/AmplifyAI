@@ -17,7 +17,7 @@ This table summarizes the key challenges we encountered during our project, as w
 
 | 🏁 **Main Objective** | 🔧 **Subtasks** |
 |------------------------|----------------------------|
-| **1. Team Setup & Documentation** | - Create GitHub repository and initialize README<br>- Set up GitHub Project (Backlog, Milestones, Roadmap)<br>- Draft and submit the initial Statement of Work (SOW)<br>- Prepare the following project documentation:<br>  ・Risk Management<br>  ・Decision Log<br>  ・Reflection Log<br>  ・Meeting Record<br>  ・Stakeholders Analysis<br>  ・Team Charter<br>  ・User Stories |
+| **1. Team Setup & Documentation** | - Create GitHub repository and initialize README<br>- Set up GitHub Project (Backlog, Milestones, Roadmap)<br>- Draft and submit the initial Statement of Work (SOW)<br>- Prepare the following project documentation:<br>  ・Risk Management<br>  ・Decision Log<br>  ・Reflection Log<br>  ・Meeting Record<br>  ・Stakeholders Analysis<br>  ・User Stories |
 | **2. Website Skeleton Setup** | - Create a GitHub test repository and deploy a Jekyll test site<br>- Build the basic structure (HTML/CSS/JS) of the Southern Cross AI website |
 | **3. Social Media Setup** | - Register and bind accounts for 6 social media platforms (Facebook, Instagram, Twitter, LinkedIn, YouTube, TikTok)<br>- Configure branding: logo, naming conventions, and connect to Metricool |
 | **4. Initial Content Publishing** | - Publish one post on each platform as the first round of content testing |
