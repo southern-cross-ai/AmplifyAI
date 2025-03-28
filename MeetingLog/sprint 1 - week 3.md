@@ -1,8 +1,8 @@
 **📅 Meeting Record: Week 3**  
 
-**Date:** March 21st, 2025
-**Time:** 9–11 AM
-**Location:** The Hive
+**Date:** March 21st, 2025  
+**Time:** 9–11 AM  
+**Location:** The Hive  
 
 ---
 
