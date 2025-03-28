@@ -44,7 +44,7 @@ This risk management plan applies to all aspects of the AmplifyAI project, inclu
 | R4      | Schedule training sessions or create shared tool guides                             | Shift workload temporarily to experienced team members    |
 | R5      | Use version control (e.g., GitHub); implement backup routines                       | Revert to backups or staging versions                     |
 | R6      | Set community guidelines and moderation protocol                                    | Enable comment filtering and manual review                |
-| R7      | Use project management tools (e.g., Trello, Notion); weekly sync meetings           | Reassign tasks or balance workload as needed              |
+| R7      | Use project management tools; weekly sync meetings                                  | Reassign tasks or balance workload as needed              |
 | R8      | Conduct legal checks on content sources; use royalty-free assets                    | Take down flagged content and revise policies             |
 
 ---
@@ -53,7 +53,6 @@ This risk management plan applies to all aspects of the AmplifyAI project, inclu
 
 - **Weekly Risk Review** during team meetings  
 - **Status Updates** on high-priority risks
-- **Tools Used**: Trello (risk tracking board), Google Docs (risk log), GitHub (for version control)
 
 ---
 
