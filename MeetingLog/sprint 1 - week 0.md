@@ -45,15 +45,6 @@ Formalize the new team structure, define responsibilities for the **Content Grou
 
 ---
 
-## 5. 🗓️ Upcoming Meetings  
-- **Kick-off Session**: Friday, March 7th, 9–11 AM (on-site in the Hive).  
-- **Tutor Availability**:  
-  - Ant & Dave: 4–6 PM (days TBD).  
-  - Matt: Availability to be confirmed.  
-- **Remote Check-In**: Zoom meeting scheduled for Friday, March 21st, for progress updates.  
-
----
-
 ## Next Steps for Content Group  
 1. team composition and notify TL admins.  
 2. Sign legal agreements by April 16th.  
