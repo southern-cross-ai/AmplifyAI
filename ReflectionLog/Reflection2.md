@@ -12,7 +12,7 @@ The following table summarizes the key issues we encountered during Sprint 1, al
 | Post-Meeting Task Allocation Tracking     | - Meeting notes were recorded, but task assignment afterwards wasn’t clearly documented.                   | - The tutor pointed out a missing link between meeting outcomes and task distribution workflow.                                               | - After each meeting, sub-issues are created under the meeting issue to map discussion points to tasks and assignees.                                        | Meeting decisions now flow clearly into task execution, making workflow transparent to both internal and external stakeholders.                                  | All Members     |
 ### 2️⃣ Sprint 2 Overview & Burndown Chart
 #### Sprint 2 Burn chart
-![Sprint 2 Progress](ReflectionLog/burnchart2.png)
+![Sprint 2 Progress](burnchart2.png)
 
 #### Sprint 2 Reflection – Integration & Engagement
 
