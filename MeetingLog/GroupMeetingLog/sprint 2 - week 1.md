@@ -44,6 +44,7 @@ title: Page Title
 - [x] Backup current site files
 - [x] Finalize file mapping between old .html and new Jekyll components
 - [x] Organize team responsibilities for refactoring and integration
+- [x] Phase 1 website contents updates, including sample UI, pictures and product contents pages.
 - [x] Test rendering of .html pages using Jekyll layout system
 
 ---
