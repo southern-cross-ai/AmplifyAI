@@ -9,6 +9,8 @@
 ## 🎯 1. Meeting Objective  
 Discuss how to prepare our current static website for migration to the Jekyll framework by understanding its layout structure and planning component organization without enforcing unnecessary modularization.
 
+---
+
 ## 📋 2. Core Discussion Points
 
 ### A. Understanding Jekyll’s Structure  
@@ -36,11 +38,15 @@ layout: default
 title: Page Title
 ```
 
+---
+
 ## ✅ 3. Action Items  
 - [x] Backup current site files
 - [x] Finalize file mapping between old .html and new Jekyll components
 - [x] Organize team responsibilities for refactoring and integration
 - [x] Test rendering of .html pages using Jekyll layout system
+
+---
 
 ## 🔄 4. Looking Ahead  
 - In the next stage, we will begin refining page styles and cleaning up the Jekyll directory structure.  
