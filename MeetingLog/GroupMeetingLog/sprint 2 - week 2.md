@@ -36,12 +36,12 @@ This week’s focus was on deploying our group’s website using **Jekyll**, and
    ```
 2. Install the latest Ruby:  
    ```bash
-   ruby-install ruby
+   ruby-install ruby 3.4.1
    ```
 3. Configure `.zshrc` or `.bashrc` to activate `chruby`, and switch to the new Ruby version.  
-4. Install Jekyll and Bundler using the new Ruby environment:  
+4. Install Jekyll using the new Ruby environment:  
    ```bash
-   gem install jekyll bundler
+   gem install jekyll
    ```
 
 - The team resolved the issue collaboratively during the meeting and documented the solution for reference.
