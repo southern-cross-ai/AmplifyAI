@@ -55,5 +55,12 @@ This week’s focus was on deploying our group’s website using **Jekyll**, and
 
 ---
 
+## 🔄 4. Looking Ahead  
+- Continue refining the group’s Jekyll workflow, including standardizing layouts and improving theme consistency.  
+- Collect feedback from each member’s deployment test to identify any remaining issues or confusion.   
+- Plan initial testing on GitHub Pages with all integrated components to validate site functionality across devices and platforms.
+
+---
+
 **Prepared by**: Yuhang Chen  
 **Date**: April 24th, 2025  
