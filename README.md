@@ -83,7 +83,7 @@ By working together, we are laying the foundation for an AI-powered future where
 
 [6. Risk Management Document](./RiskManagementDocument.md)
 
-[7. Feedback Log]() 
+[7. Feedback Log](ReflectionLog) 
 
 [8. Stakeholder Analysis](https://docs.google.com/document/d/1BMRWgrukCeWDVYKDNYrEYXLBc7X9g9iDHrKtba-464k/edit?tab=t.0) 
 
