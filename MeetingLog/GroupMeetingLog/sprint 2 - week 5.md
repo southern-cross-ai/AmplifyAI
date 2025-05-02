@@ -1,62 +1,54 @@
-**📅 Meeting Record: Week 4**  
+# 📅 Meeting Record: Week 3
 
-**Date:** March 28th, 2025  
-**Time:** 9–11 AM  
-**Location:** The Hive  
-
----
-
-### **1. 🎯 Meeting Objective**  
-1. Finalize **Jekyll to GitHub Pages workflow** for website deployment.  
-2. Complete **Metricool integration** with social media accounts.  
-3. Initiate **Discord channel setup** for internal communication.  
+**Date:** April 10th, 2025  
+**Time:** 1PM – 2PM  
+**Location:** Online  
 
 ---
 
-### **2. 📋 Core Discussion Points**  
-
-#### **A. Jekyll & GitHub Pages Workflow Finalization**  
-- **Process**:  
-  1. **Local Editing with Jekyll**:  
-     - Upload existing web pages to jekyll for local testing and modifications.  
-     - Validate functionality and design consistency before deployment.  
-  2. **Automated Deployment**:  
-     - Push finalized code to GitHub repository.  
-     - Leverage GitHub Actions to auto-publish updates to the **Southern Cross AI production environment**.  
-- **Next Steps**:  
-  - Document the workflow for future team reference.  
-  - Assign frontend leads to oversee CSS/JavaScript optimizations and new page development.  
-
-#### **B. Social Media & Metricool Integration**  
-- **Final Tasks**:  
-  - Ensure all social media accounts (Facebook, X/Twitter, Instagram, LinkedIn, YouTube, TikTok) are:  
-    ✅ Linked to Metricool.  
-    ✅ Branded with unified logos, messaging, and password (`Amplifi2025!Social`).  
-  - Schedule a **"Launch Ready"** post series for platform consistency.  
-
-#### **C. Discord Channel Setup**  
-- **Purpose**: Centralize team communication and archive discussions.  
-- **Action**:  
-  - Create a dedicated **AmplifiAI Discord server** with channels for:  
-    - General updates  
-    - Technical discussions  
-    - Content planning  
-  - Invite all team members and enforce documentation of key decisions.  
+## 🎯 1. Meeting Objective  
+Discuss how to adapt our current static website structure to Jekyll’s modular framework by splitting shared components, keeping `.html` files, and assigning responsibilities for integration and layout construction.
 
 ---
 
-### **3. 🚀 Logistics & Next Steps**  
-- **Jekyll/GitHub Workflow**: Complete by **March 23rd**.  
-- **Social Media Branding**: Finalize by **March 22nd EOD**.  
-- **Discord Server**: Launch and populate by **March 24th**.  
-- **Video/Podcast Studio Orientation**: Scheduled for **March 21st, 2–3 PM** (post-meeting).  
+## 📋 2. Core Discussion Points
 
+### A. Understanding Jekyll’s Structure Needs  
+- Jekyll encourages a **modular architecture**, separating layouts, includes, and page content.  
+- Our current website is composed of multiple full `.html` pages, each duplicating elements like `<head>`, navbars, and footers.  
+- Instead of converting to Markdown (`.md`), we will **retain the `.html` format**, and simply add [YAML front matter](https://jekyllrb.com/docs/front-matter/) to make pages compatible with Jekyll.
+
+### B. Current Site Structure Review  
+We reviewed our existing files and identified the following:
+
+#### 📄 Main HTML Pages:
+- `index.html`: Homepage  
+- `web_about_us.html`, `web_contact.html`, `web_products.html`: Informational pages  
+- `web_AI_trail.html`, `web_sub_AI_trail.html`: Topic-specific pages  
+- `web_latest_news.html`, `latest_news.html`: News sections  
+- `members.html`: Team introduction  
+- `SampleUI.html`: Demo UI (auxiliary)
+
+#### 🎯 Components & Assets:
+- `footer.html`: Already modularized  
+- `style.css`, `script.js`: Static styling and interactivity files  
+- ❌ Missing: `header.html` and `nav.html` (to be extracted)
+
+### C. Refactoring & Integration Plan  
+To follow Jekyll’s structure, we proposed the following actions:
+
+| Jekyll Component       | Source File(s)              | Notes                                          |
+|------------------------|-----------------------------|------------------------------------------------|
+| `_includes/footer.html`| `footer.html`               | Already extracted, no changes needed           |
+| `_includes/header.html`| To be extracted             | From `<head>` sections across pages            |
+| `_includes/nav.html`   | To be extracted             | Shared navbar across pages                     |
+| `_layouts/default.html`| New                         | Will include header, footer, nav, and `{{ content }}` |
+| HTML Pages with Front Matter | All `.html` pages     | Keep file extension, just add layout metadata  |
+
+Each content page (e.g., `web_about_us.html`) will have a front matter block like this:
+
+```html
 ---
-
-### **4. ✅ Action Items**  
-1. **Jekyll Testing**: Frontend team to validate and push updates (Deadline: March 23rd).  
-2. **Metricool Validation**: Confirm all accounts are linked and branded (Owner: Social Media Subgroup).  
-3. **Discord Setup**: Create server and invite members (Owner: Tech Ops Team).   
-
-**Prepared by**: Yuhang Chen  
-**Date**: March 28st, 2025  
+layout: default
+title: About Us
+---
