@@ -35,10 +35,8 @@ We reviewed our current HTML files:
 We agreed that maintaining `.html` format is the most practical approach, and we’ll integrate Jekyll support by adding front matter to each file:
 
 ```html
----
 layout: default
 title: Page Title
----
 ```
 
 ## ✅ 3. Action Items  
