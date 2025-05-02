@@ -1,4 +1,4 @@
-**📅 Meeting Record: Sprint 2 - Week 2**  
+**📅 Meeting Record: Sprint 2 - Week 2**
 
 **Date:** April 24th, 2025  
 **Time:** 2–3 PM  
@@ -6,12 +6,12 @@
 
 ---
 
-### **1. 🎯 Meeting Objective**
-This week’s focus was on deploying our group’s website using Jekyll, and resolving related technical issues—especially on macOS environments.
+## 🎯 1. Meeting Objective  
+This week’s focus was on deploying our group’s website using **Jekyll**, and resolving related technical issues—especially on macOS environments.
 
 ---
 
-### **2. 📋 Core Discussion Points**  
+## 📋 2. Core Discussion Points
 
 ### A. Learning & Practicing Jekyll Deployment  
 - We followed a Bilibili tutorial to understand how to build and deploy a website using Jekyll. Key steps included:  
@@ -49,9 +49,9 @@ This week’s focus was on deploying our group’s website using Jekyll, and res
 ---
 
 ## ✅ 3. Action Items  
-- [x] **Environment Setup Guide**: Document macOS Ruby and Jekyll installation steps.  
-- [x] **Standardize Jekyll Workflow**: Finalize and share the local-to-GitHub Pages deployment procedure.  
-- [x] **Deployment Practice**: Each member should complete a Jekyll deployment test and submit feedback before the next meeting.
+- [ ] **Environment Setup Guide**: Document macOS Ruby and Jekyll installation steps.  
+- [ ] **Standardize Jekyll Workflow**: Finalize and share the local-to-GitHub Pages deployment procedure.  
+- [ ] **Deployment Practice**: Each member should complete a Jekyll deployment test and submit feedback before the next meeting.
 
 ---
 
