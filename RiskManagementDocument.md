@@ -21,15 +21,15 @@ This risk management plan applies to all aspects of the AmplifyAI project, inclu
 
 | Risk ID | Risk Description                                                 | Likelihood | Impact | Risk Level | Category     | Date Identified | Resolution Date |
 |---------|------------------------------------------------------------------|------------|--------|------------|--------------|-----------------|-----------------|
-| R0      | Late project initiation due to changes in project direction      | High       | High   | Critical   | Planning     | 27/03/2025      | 27/03/2025      |
-| R1      | Inconsistent branding across platforms                           | Medium     | High   | High       | Reputation   | 27/03/2025      | 27/03/2025      |
-| R2      | Delays in website development (Jekyll setup, deployment)         | Medium     | High   | High       | Technical    | 27/03/2025      | 27/03/2025      |
-| R3      | Low social media engagement or reach                             | High       | Medium | High       | Engagement   | 27/03/2025      | 27/03/2025      |
-| R4      | Inadequate content creation due to tool unfamiliarity            | Medium     | Medium | Medium     | Operational  | 27/03/2025      | 27/03/2025      |
-| R5      | Data loss or versioning issues during website or content edits   | Low        | High   | Medium     | Technical    | 27/03/2025      | 27/03/2025      |
-| R6      | Negative feedback or trolling on public platforms                | Medium     | Low    | Medium     | Community    | 27/03/2025      | 27/03/2025      |
-| R7      | Team workload imbalance or miscommunication                      | Medium     | Medium | Medium     | Team/Process | 27/03/2025      | 27/03/2025      |
-| R8      | Platform policy violations (e.g. copyright or community issues)  | Low        | High   | Medium     | Compliance   | 27/03/2025      | 27/03/2025      |
+| R0      | Late project initiation due to changes in project direction      | High       | High   | Critical   | Planning     | 21/03/2025      | 21/03/2025      |
+| R1      | Inconsistent branding across platforms                           | Medium     | High   | High       | Reputation   | 21/03/2025      | 21/03/2025      |
+| R2      | Delays in website development (Jekyll setup, deployment)         | Medium     | High   | High       | Technical    | 21/03/2025      | 21/03/2025      |
+| R3      | Low social media engagement or reach                             | High       | Medium | High       | Engagement   | 21/03/2025      | 21/03/2025      |
+| R4      | Inadequate content creation due to tool unfamiliarity            | Medium     | Medium | Medium     | Operational  | 21/03/2025      | 21/03/2025      |
+| R5      | Data loss or versioning issues during website or content edits   | Low        | High   | Medium     | Technical    | 21/03/2025      | 21/03/2025      |
+| R6      | Negative feedback or trolling on public platforms                | Medium     | Low    | Medium     | Community    | 21/03/2025      | 21/03/2025      |
+| R7      | Team workload imbalance or miscommunication                      | Medium     | Medium | Medium     | Team/Process | 21/03/2025      | 21/03/2025      |
+| R8      | Platform policy violations (e.g. copyright or community issues)  | Low        | High   | Medium     | Compliance   | 21/03/2025      | 21/03/2025      |
 | R9    	| Tutorial date changes preventing some members from attending	   | High       |	Medium | High     	| Scheduling   | 11/04/2025      | 11/04/2025      |
 | R10	    | Tutorials fall on public holidays, affecting group availability  | Medium   	| Medium | Medium   	| Scheduling   | 11/04/2025      | 11/04/2025      |
 | R11    	| Jekyll setup issues across different systems (Mac, Windows)	     | High     	| High	 | Critical 	| Technical    | 18/04/2025      | 18/04/2025      |
