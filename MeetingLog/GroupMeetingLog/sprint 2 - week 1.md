@@ -39,6 +39,7 @@ We agreed that maintaining `.html` format is the most practical approach, and we
 layout: default
 title: Page Title
 ---
+```
 
 ## ✅ 3. Action Items  
 - [x] Backup current site files
