@@ -44,6 +44,10 @@ title: Page Title
 - [x] Organize team responsibilities for refactoring and integration
 - [x] Test rendering of .html pages using Jekyll layout system
 
+## 🔄 4. Looking Ahead  
+- In the next stage, we will begin refining page styles and cleaning up the Jekyll directory structure.  
+- If the rendering and integration tests are successful, we will prepare to deploy the site to GitHub Pages for preview and validation.
+
 ---
 
 **Prepared by**: Yuhang Chen  
