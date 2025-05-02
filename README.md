@@ -77,8 +77,7 @@ By working together, we are laying the foundation for an AI-powered future where
 
 [3. 2025 Semester 1 Weekly Report (fortnight)]()
 
-[4. 2025 Semester 1 Decision Log](https://anu365-my.sharepoint.com/:x:/g/personal/u7705888_anu_edu_au/ESJvz_Wl2jNNuGHa-NgrAZQBx1BcrcNUyOfha-W7OfSfMw?e=sZvRd0)
-
+[4. 2025 Semester 1 Decision Log](https://anu365-my.sharepoint.com/:x:/g/personal/u7705888_anu_edu_au/ESJvz_Wl2jNNuGHa-NgrAZQBx1BcrcNUyOfha-W7OfSfMw?e=nwWJz0)
 [5. 2025 Semester 1 Meeting Record](https://github.com/southern-cross-ai/AmplifyAI/tree/main/MeetingLog)
 
 [6. Risk Management Document](./RiskManagementDocument.md)
