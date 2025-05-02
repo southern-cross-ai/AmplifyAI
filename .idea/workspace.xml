@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6832f9-6ac0-440f-ab66-74945071a896" name="Changes" comment="meeting record">
+      <change beforePath="$PROJECT_DIR$/MeetingLog/sprint 1 - week 1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeetingLog/sprint 1 - week 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeetingLog/sprint 1 - week 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeetingLog/sprint 1 - week 4.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uvRzQ5uDlH257Lzp2EBgsI4pj7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/56291/PycharmProjects/AmplifyAI/MeetingLog/GroupMeetingLog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\56291\PycharmProjects\AmplifyAI\MeetingLog\GroupMeetingLog" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6832f9-6ac0-440f-ab66-74945071a896" name="Changes" comment="" />
+      <created>1743127322526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743127322526</updated>
+      <workItem from="1743127323828" duration="629000" />
+      <workItem from="1743136559727" duration="3000" />
+      <workItem from="1746141517190" duration="133000" />
+      <workItem from="1746141659168" duration="1860000" />
+    </task>
+    <task id="LOCAL-00001" summary="meeting record">
+      <option name="closed" value="true" />
+      <created>1743127938971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743127938971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="meeting record" />
+    <option name="LAST_COMMIT_MESSAGE" value="meeting record" />
+  </component>
+</project>
