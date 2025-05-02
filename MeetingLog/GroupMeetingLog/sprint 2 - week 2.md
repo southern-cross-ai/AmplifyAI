@@ -23,7 +23,9 @@ This week’s focus was on deploying our group’s website using Jekyll, and res
 
 ### B. macOS Environment Issue: Ruby Installation  
 - One member encountered an issue when installing Jekyll on macOS due to the system’s outdated Ruby version (typically 2.6.10), resulting in errors such as:
-- Gem::FilePermissionError: You don't have write permissions for the /Library/Ruby/Gems/... directory
+  ```bash
+  Gem::FilePermissionError: You don't have write permissions for the /Library/Ruby/Gems/... directory
+  ```
 
 - After referencing the [official Jekyll documentation](https://jekyllrb.com/docs/installation/macos/) and additional online guides, we learned that **it is not recommended to use system Ruby** on macOS for installing gems like Jekyll.
 
