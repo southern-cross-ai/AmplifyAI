@@ -9,8 +9,6 @@
 ## 🎯 1. Meeting Objective  
 Discuss how to prepare our current static website for migration to the Jekyll framework by understanding its layout structure and planning component organization without enforcing unnecessary modularization.
 
----
-
 ## 📋 2. Core Discussion Points
 
 ### A. Understanding Jekyll’s Structure  
