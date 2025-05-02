@@ -7,50 +7,37 @@
 ---
 
 ## 🎯 1. Meeting Objective  
-Discuss how to adapt our current static website structure to Jekyll’s modular framework by splitting shared components, keeping `.html` files, and assigning responsibilities for integration and layout construction.
+Discuss how to prepare our current static website for migration to the Jekyll framework by understanding its layout structure and planning component organization without enforcing unnecessary modularization.
 
 ---
 
 ## 📋 2. Core Discussion Points
 
-### A. Understanding Jekyll’s Structure Needs  
-- Jekyll encourages a **modular architecture**, separating layouts, includes, and page content.  
-- Our current website is composed of multiple full `.html` pages, each duplicating elements like `<head>`, navbars, and footers.  
-- Instead of converting to Markdown (`.md`), we will **retain the `.html` format**, and simply add [YAML front matter](https://jekyllrb.com/docs/front-matter/) to make pages compatible with Jekyll.
+### A. Understanding Jekyll’s Structure  
+- Jekyll allows us to create modular, reusable websites using a layout-based system.  
+- Unlike traditional static sites where each HTML file is standalone, Jekyll encourages using layouts and front matter to simplify structure and maintenance.  
+- We **do not need to split everything into separate files like `header.html` or `nav.html`**, unless we find them useful for reuse. These are optional and can be embedded directly in layout files.
 
-### B. Current Site Structure Review  
-We reviewed our existing files and identified the following:
+### B. Existing Site Review  
+We reviewed our current HTML files:
 
-#### 📄 Main HTML Pages:
-- `index.html`: Homepage  
-- `web_about_us.html`, `web_contact.html`, `web_products.html`: Informational pages  
-- `web_AI_trail.html`, `web_sub_AI_trail.html`: Topic-specific pages  
-- `web_latest_news.html`, `latest_news.html`: News sections  
-- `members.html`: Team introduction  
-- `SampleUI.html`: Demo UI (auxiliary)
+#### ✅ Pages:
+- `index.html`  
+- `web_about_us.html`, `web_contact.html`, `web_products.html`  
+- `web_AI_trail.html`, `web_sub_AI_trail.html`  
+- `web_latest_news.html`, `latest_news.html`  
+- `members.html`, `SampleUI.html`
 
-#### 🎯 Components & Assets:
-- `footer.html`: Already modularized  
-- `style.css`, `script.js`: Static styling and interactivity files  
-- ❌ Missing: `header.html` and `nav.html` (to be extracted)
+#### ✅ Assets:
+- `footer.html`: already extracted and reusable  
+- `style.css`, `script.js`: used across the site  
 
-### C. Refactoring & Integration Plan  
-To follow Jekyll’s structure, we proposed the following actions:
-
-| Jekyll Component       | Source File(s)              | Notes                                          |
-|------------------------|-----------------------------|------------------------------------------------|
-| `_includes/footer.html`| `footer.html`               | Already extracted, no changes needed           |
-| `_includes/header.html`| To be extracted             | From `<head>` sections across pages            |
-| `_includes/nav.html`   | To be extracted             | Shared navbar across pages                     |
-| `_layouts/default.html`| New                         | Will include header, footer, nav, and `{{ content }}` |
-| HTML Pages with Front Matter | All `.html` pages     | Keep file extension, just add layout metadata  |
-
-Each content page (e.g., `web_about_us.html`) will have a front matter block like this:
+We agreed that maintaining `.html` format is the most practical approach, and we’ll integrate Jekyll support by adding front matter to each file:
 
 ```html
 ---
 layout: default
-title: About Us
+title: Page Title
 ---
 
 ## ✅ 3. Action Items  
