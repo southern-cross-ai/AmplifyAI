@@ -1,40 +1,46 @@
-# Minutes of group meeting
-## 一、General Information of the meeting
-1. **Meeting time**： 5：00P.M. 10/04/2025
-2. **会议地点**：[线上/线下具体地址]
-3. **参会人员**：Xiangyu Bi，Ke Wen，Yuhang Chen，Wenzhao Zheng，Xinyi Chen，Xuefei Luan，Yuetao Zhang
 
-## 二、会议议程
-1. 各成员汇报近期工作进展。
-2. 讨论项目中遇到的问题及解决方案。
-3. 明确下一阶段的工作目标与计划。
+# 📅 Meeting Record: Sprint 1 - Week 4
 
-## 三、会议内容
-### （一）成员工作进展汇报
-1. **Xiangyu Bi（Project Coordinator）**：作为AI爱好者，持续关注AI领域动态，将其融入项目规划。在数据处理和软件优化方面，积极解决潜在“bug”问题，推动项目顺利进行。同时，合理协调团队资源，确保项目各环节有序开展。
-2. **Ke Wen（Main Developer）**：发挥高效工作优势，专注于项目测试与质量把控，凭借敏锐的洞察力，精准找出代码中的“bug”，保障项目质量。通过合理安排时间，在提高工作效率的同时，也注重工作与休息的平衡。
-3. **Yuhang Chen（Support Developer）**：深入学习Unreal Engine 5工作流程，全力优化核心内容管道工具与模块化建模技术。充分考虑技术限制，确保输出资产的质量与效率，为项目提供有力支持。
-4. **Wenzhao Zheng（Main Developer）**：在《The Guild》项目中，运用Python、C++、C#等技术，负责动画、背景艺术和文本内容开发。目前致力于优化游戏循环机制，期望为玩家带来更流畅的游戏体验。
-5. **Xinyi Chen（Support Developer）**：专注于《The Guild》的叙事设计，精心打造引人入胜的剧情、复杂的道德选择和丰富的游戏背景故事。通过细腻的文字创作，赋予游戏独特的魅力与深度。
-6. **Xuefei Luan（Support Developer）**：发挥艺术与技术融合的特长，在计算机图形和音乐编程领域不断探索创新。将美学与音乐元素融入项目，为项目增添独特的艺术氛围。
-7. **Yuetao Zhang（Main Developer）**：凭借多种编程语言技能和丰富的游戏开发经验，在Unreal Engine和Unity3D项目中，高效解决复杂技术问题，优化数据库管理和系统性能，保障项目稳定运行。
+**Date:** March 28th, 2025  
+**Time:** 5-6 PM  
+**Location:** The Hive  
 
-### （二）问题讨论与解决方案
-1. **问题**：在Unreal Engine 5项目开发中，部分资产加载速度较慢，影响整体游戏体验。
-2. **讨论**：Yuhang Chen和Yuetao Zhang分析认为，可能是资产优化不足以及加载算法有待改进。其他成员也提出不同见解，如是否存在资源冲突等。
-3. **解决方案**：Yuhang Chen负责进一步优化资产，采用更高效的压缩和格式转换技术；Yuetao Zhang则着手研究并改进加载算法，提高资产加载效率。后续将进行测试验证，确保问题得到解决。
+---
 
-### （三）下一阶段工作目标与计划
-1. **Xiangyu Bi**：加强项目进度监控，协调各方资源，确保项目按计划推进。组织团队定期进行技术分享，促进成员间的学习与交流。
-2. **Ke Wen**：持续进行项目测试，重点关注新功能的稳定性和兼容性，及时发现并解决潜在问题。
-3. **Yuhang Chen**：完成核心内容管道工具的优化，进一步提升模块化建模技术，确保资产输出质量和效率达到更高标准。
-4. **Wenzhao Zheng**：完成《The Guild》游戏循环机制的优化，同时推进动画和背景艺术的细节完善工作。
-5. **Xinyi Chen**：完成《The Guild》的主要叙事内容创作，与其他成员协作，确保剧情与游戏玩法紧密结合。
-6. **Xuefei Luan**：探索更多艺术与技术融合的创新点，为项目开发独特的图形和音乐元素，提升项目的艺术表现力。
-7. **Yuetao Zhang**：持续优化项目的数据库管理和系统性能，协助其他成员解决技术难题，保障项目整体稳定性。
+## 🎯 1. Meeting Objective  
+It summarizes the problems of Sprint 1 in website function, team collaboration, document writing and other aspects, and plans the goals of Sprint 2 around the deployment of web pages and Jekyll, and gives adaptation arrangements combined with teaching holidays.
 
-## 四、会议总结
-本次会议全面梳理了各成员近期工作成果，有效解决了项目中遇到的问题，并明确了下一阶段的工作目标与计划。希望全体成员在后续工作中，继续保持积极的工作态度，加强沟通协作，共同推动项目顺利完成。
+---
 
-记录人：[记录人姓名]
-日期：[记录日期] 
+## 📋 2. Core Discussion Points
+
+### A. Summary of Sprint 1 issues  
+- Lacking documentary evidence, every small task starts and ends with a note explaining how you did it.After the completion of the need for someone to check after passing the evidence.
+- The realization of interactive effects of some website functions is not ideal, and the animation fluency is insufficient, resulting in operation stagnation.
+- Project documents are not updated in time, and the information obtained by members is biased, which affects work efficiency.
+  
+### B. Sprint 2 Goal planning  
+- Improve the interactive effect of the website, improve the fluency, and reduce the operation lag phenomenon. Improve code reusability, establish component library, convenient for subsequent function development.
+- According to the customer's suggestion, Jekyll was used to build the website, and the html/css/javascript framework was generated based on decision.
+- Improve documentation, add group meeting minutes, and detailed documentation and update in time.
+- Develop new web page functions, enhance the visualization effect of web pages, and display the content in the form of intuitive and beautiful charts.
+
+---
+
+## ✅ 3. Action Items  
+- [x] Test the fluency of different terminals (mobile/PC) and record the performance
+- [x] Optimize page load speed, troubleshooting and resolving latencies
+- [x] Use Jekyll to initialize the project structure and configure the base environment
+- [x] Migrating existing HTML/CSS/JS pages to Jekyll template structures
+- [x] Write Sprint 1 review and Sprint 2 planning minutes
+- [x] Adding new features to website.
+
+---
+
+## 🔄 4. Looking Ahead  
+As we enter the teaching break, our team will stay aligned and continue improving the website's interactivity, performance, and visual appeal. In Sprint 2, we aim to implement user feedback, refine the UI, and develop more advanced features. Our goal is to deliver a smooth, accessible, and uniquely Australian platform that truly represents the JoeyLLM project.
+
+---
+
+**Prepared by**: Yuetao zhang  
+**Date**: March 29th, 2025    
