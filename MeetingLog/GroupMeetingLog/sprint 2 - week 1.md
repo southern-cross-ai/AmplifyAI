@@ -16,7 +16,6 @@ Discuss how to prepare our current static website for migration to the Jekyll fr
 ### A. Understanding Jekyll’s Structure  
 - Jekyll allows us to create modular, reusable websites using a layout-based system.  
 - Unlike traditional static sites where each HTML file is standalone, Jekyll encourages using layouts and front matter to simplify structure and maintenance.  
-- We **do not need to split everything into separate files like `header.html` or `nav.html`**, unless we find them useful for reuse. These are optional and can be embedded directly in layout files.
 
 ### B. Existing Site Review  
 We reviewed our current HTML files:
