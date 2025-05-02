@@ -1,4 +1,4 @@
-# 📅 Meeting Record: Week 3
+# 📅 Meeting Record: Sprint 2 - Week 1
 
 **Date:** April 10th, 2025  
 **Time:** 1PM – 2PM  
@@ -52,3 +52,14 @@ Each content page (e.g., `web_about_us.html`) will have a front matter block lik
 layout: default
 title: About Us
 ---
+
+## ✅ 3. Action Items  
+- [x] Backup current site files
+- [x] Finalize file mapping between old .html and new Jekyll components
+- [x] Organize team responsibilities for refactoring and integration
+- [x] Test rendering of .html pages using Jekyll layout system
+
+---
+
+**Prepared by**: Yuhang Chen  
+**Date**: April 10th, 2025  
