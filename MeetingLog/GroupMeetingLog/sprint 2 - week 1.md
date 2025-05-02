@@ -1,7 +1,7 @@
 # 📅 Meeting Record: Sprint 2 - Week 1
 
 **Date:** April 10th, 2025  
-**Time:** 1PM – 2PM  
+**Time:** 1–2 PM  
 **Location:** Online  
 
 ---
