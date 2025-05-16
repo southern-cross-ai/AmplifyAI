@@ -16,3 +16,13 @@
 - [ ] Complete **social media analysis summary**  
   - Overview of reach, engagement trends, and performance insights  
 
+
+## 📅 Weekly Schedule
+
+| Week       | Monday                | Tuesday                | Wednesday               | Thursday                 | Friday                    |
+|------------|------------------------|-------------------------|--------------------------|---------------------------|----------------------------|
+| **Week 11** | Draft handover wiki   | Daily maintenance       | Edit & polish wiki       | Complete 50% clicking functions | Finalise wiki + Daily maintenance |
+|            |                       |                         |                          | Daily maintenance         | Daily maintenance          |
+| **Week 12** | Start social media analysis | Finalise analysis draft | Create Join Us page (part 1) | Create Join Us page (part 2) | Finalise all clicking functions |
+|            | Daily maintenance     | Daily maintenance       | Daily maintenance        | Daily maintenance         | Daily maintenance          |
+
