@@ -21,8 +21,8 @@
 
 | Week       | Monday                | Tuesday                | Wednesday               | Thursday                 | Friday                    |
 |------------|------------------------|-------------------------|--------------------------|---------------------------|----------------------------|
-| **Week 11** | Draft handover wiki   | Daily maintenance       | Edit & polish wiki       | Draft handover wiki <br>Daily maintenance | Finalise wiki <br>Daily maintenance |
-| **Week 12** | Start social media analysis<br>Daily maintenance | Finalise analysis draft<br>Daily maintenance | Create Join Us page (part 1)<br>Daily maintenance | Create Join Us page (part 2)<br>Daily maintenance | Finalise all clicking functions <br>Daily maintenance|
+| **Week 11** | Draft handover wiki.   | Daily maintenance.| Edit & polish wiki.       | Draft handover wiki. <br>Daily maintenance. | Finalise wiki. <br>Daily maintenance. |
+| **Week 12** | Start social media analysis.<br>Daily maintenance. | Finalise analysis draft.<br>Daily maintenance. | Create Join Us page (part 1).<br>Daily maintenance. | Create Join Us page (part 2).<br>Daily maintenance. | Finalise all clicking functions. <br>Daily maintenance.|
 
 
 ## 📌 Key Deliverables and Responsibility Allocation
