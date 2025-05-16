@@ -2,13 +2,20 @@
 
 ## 1. Web Page Development
 - [ ] Create **Join Us** page  
-  - Includes role descriptions, benefits, and application process  
+  - Role descriptions, benefits, application process  
+  - Add **FAQs** & **quick-apply CTA**   
 - [ ] Complete all **clicking functions**  
-  - Ensure all buttons and links across the site are responsive and functional  
+  - Ensure every button / link is responsive and functional  
+  - Add **ARIA labels** and keyboard navigation support
+- [ ] **Site-wide polish**  
+  - Cross-browser tests (Chrome, Firefox, Safari, Edge)  
+  - Page-speed & SEO baseline audit (Lighthouse) 
 
 ## 2. Social Media
 - [ ] Daily **maintenance and updates**  
-  - Monitor engagement, respond to interactions, and post regularly  
+  - Monitor engagement, respond to interactions, and post regularly
+- [ ] **Campaign highlights** – “Meet the Team”, milestones, BTS posts
+- [ ] **Metrics dashboard** – impressions, CTR, follower growth
 
 ## 3. Documentation
 - [ ] Prepare **handover wiki page**  
@@ -71,5 +78,22 @@
 | Tutor | Guides the team in process execution and ensures alignment with academic expectations | Regular consultations, milestone reviews, and clarification of project scope |
 | General public, students, AI enthusiasts, researchers | End users of the website and social media platforms; their engagement drives impact and success | Active social media engagement, feedback collection via Discord polls, and monitoring with Metricool |
 
+--- 
 
+## ✅ Success Metrics
+
+| Area            | Target                                        |
+|-----------------|-----------------------------------------------|
+| Social media    | +15 % followers; average CTR > 3 %            |
+| Documentation   | New maintainer setup ≤ 15 min (user test)     |
+| Client feedback | Post-handover survey ≥ 8 / 10                 |
+
+---
+
+## 🔄 Review & Confirmation
+- Plan reviewed at weekly meetings; minutes stored in GitHub Wiki.  
+- Tutor & client sign-off at end of Week 11 (scope) and Week 12 (delivery).  
+- Week 12 retrospective will capture lessons learned & next-step actions.
+
+---
 
