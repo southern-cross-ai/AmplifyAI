@@ -26,3 +26,39 @@
 | **Week 12** | Start social media analysis | Finalise analysis draft | Create Join Us page (part 1) | Create Join Us page (part 2) | Finalise all clicking functions |
 |            | Daily maintenance     | Daily maintenance       | Daily maintenance        | Daily maintenance         | Daily maintenance          |
 
+
+## 📌 Key Deliverables and Responsibility Allocation
+
+| Deliverable | Responsible | Completion Date | Reviewer | Notes |
+|-------------|-------------|------------------|----------|-------|
+| Draft handover wiki structure | Xuefei Luan | Week 11 Mon | All team | Includes tools, workflows, and maintenance overview |
+| Social media maintenance | Xuefei Luan | Week 11 Mon–Fri | Ke Wen | Monitor engagement, post updates |
+| Refine and polish handover wiki | Wen Ke | Week 12 Wed | Xuefei Luan | Ensure formatting and clarity with examples |
+| Complete 50% of clicking functions |  | Week 11 Thu | All team | Includes navigation and basic interactions |
+| Finalise handover wiki | Xuefei Luan | Week 11 Fri | Wen Ke | Ready for client handover |
+| Social media daily maintenance | Xuefei Luan | Week 12 Mon–Fri | All team | Continue with content updates and engagement |
+| Draft social media analysis summary | Xuefei Luan, Wen Ke | Week 12 Mon | Xiangyu Bi | Includes trend overview and data screenshots |
+| Finalise social media analysis summary | Xuefei Luan, Wen Ke| Week 12 Tue | Xiangyu Bi | Emphasise outcomes and suggested improvements |
+| Design layout for "Join Us" page | Yuetao Zhang | Week 12 Wed | Wenzhao Zheng | Structure planning and wireframing |
+| Develop content for "Join Us" page | Yuetao Zhang, Wenzhao Zheng | Week 12 Thu | Xinyi Chen | Implement text, style, layout |
+| Finalise all clicking functions | Xinyi Chen, Yuhang Chen | Week 12 Fri | All team | Ensure all interactive elements are complete |
+
+---
+
+## ⚠️ Risks and Mitigation Strategies
+
+| Risk Description | Potential Impact | Mitigation Strategy |
+|------------------|------------------|----------------------|
+| Delay in clicking function implementation | Incomplete site interactions | Break work into phases and test regularly |
+| Missed social media updates | Lower user engagement | Assign daily checklist and rotate duties |
+| Inconsistent documentation quality | Client confusion during handover | Use a shared template and centralized editing |
+| Uneven task distribution | Team overload or inefficiency | Weekly check-ins to rebalance responsibilities |
+
+---
+
+## ✅ Evaluation and Confirmation
+
+- This plan will be reviewed and confirmed by all team members, the tutor, and the client representative.
+- After all deliverables are completed, feedback will be collected from both the tutor and the client to evaluate the overall project success and satisfaction.
+
+
