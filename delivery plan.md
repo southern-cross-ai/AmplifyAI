@@ -59,4 +59,16 @@
 - This plan will be reviewed and confirmed by all team members, the tutor, and the client representative.
 - After all deliverables are completed, feedback will be collected from both the tutor and the client to evaluate the overall project success and satisfaction.
 
+---
+
+## 👥 Stakeholder Analysis
+
+| Stakeholder | Role and Interests | Engagement Strategy |
+|-------------|---------------------|----------------------|
+| Southern Cross AI Project Client | Provides oversight and strategic feedback to ensure alignment with the broader vision of the Southern Cross AI initiative | Regular check-ins via Discord or email for feedback and direction |
+| AmplifyAI Team Members | Directly responsible for interpreting feedback, delivering outputs, and maintaining coherence with project values | Weekly planning sessions, internal reviews, and documentation updates |
+| Joey LLM Development Team | Supplies technical updates and context that inform our content and outreach | Maintain continuous communication to align messaging and coordinate milestone promotion |
+| General public, students, AI enthusiasts, researchers | End users of the website and social media platforms; their engagement drives impact and success | Active social media engagement, feedback collection via Discord polls, and monitoring with Metricool |
+
+
 
