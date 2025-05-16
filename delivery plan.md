@@ -21,10 +21,8 @@
 
 | Week       | Monday                | Tuesday                | Wednesday               | Thursday                 | Friday                    |
 |------------|------------------------|-------------------------|--------------------------|---------------------------|----------------------------|
-| **Week 11** | Draft handover wiki   | Daily maintenance       | Edit & polish wiki       | Complete 50% clicking functions | Finalise wiki + Daily maintenance |
-|            |                       |                         |                          | Daily maintenance         | Daily maintenance          |
-| **Week 12** | Start social media analysis | Finalise analysis draft | Create Join Us page (part 1) | Create Join Us page (part 2) | Finalise all clicking functions |
-|            | Daily maintenance     | Daily maintenance       | Daily maintenance        | Daily maintenance         | Daily maintenance          |
+| **Week 11** | Draft handover wiki   | Daily maintenance       | Edit & polish wiki       | Draft handover wiki <br>Daily maintenance | Finalise wiki <br>Daily maintenance |
+| **Week 12** | Start social media analysis<br>Daily maintenance | Finalise analysis draft<br>Daily maintenance | Create Join Us page (part 1)<br>Daily maintenance | Create Join Us page (part 2)<br>Daily maintenance | Finalise all clicking functions <br>Daily maintenance|
 
 
 ## 📌 Key Deliverables and Responsibility Allocation
@@ -33,8 +31,8 @@
 |-------------|-------------|------------------|----------|-------|
 | Draft handover wiki structure | Xuefei Luan | Week 11 Mon | All team | Includes tools, workflows, and maintenance overview |
 | Social media maintenance | Xuefei Luan | Week 11 Mon–Fri | Ke Wen | Monitor engagement, post updates |
-| Refine and polish handover wiki | Wen Ke | Week 12 Wed | Xuefei Luan | Ensure formatting and clarity with examples |
-| Complete 50% of clicking functions |  | Week 11 Thu | All team | Includes navigation and basic interactions |
+| Refine and polish handover wiki | Wen Ke | Week 11 Wed | Xuefei Luan | Ensure formatting and clarity with examples |
+| Complete 50% of clicking functions | Xinyi Chen | Week 11 Thu | All team | Includes navigation and basic interactions |
 | Finalise handover wiki | Xuefei Luan | Week 11 Fri | Wen Ke | Ready for client handover |
 | Social media daily maintenance | Xuefei Luan | Week 12 Mon–Fri | All team | Continue with content updates and engagement |
 | Draft social media analysis summary | Xuefei Luan, Wen Ke | Week 12 Mon | Xiangyu Bi | Includes trend overview and data screenshots |
