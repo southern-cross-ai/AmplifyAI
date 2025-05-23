@@ -1,21 +1,28 @@
 # 📦 Delivery Plan
 
 ## 1. Web Page Development
-- [ ] Create **Join Us** page  
+- [x] Create **Join Us** page  
   - Role descriptions, benefits, application process  
   - Add **FAQs** & **quick-apply CTA**   
-- [ ] Complete all **clicking functions**  
+- [x] Complete all **clicking functions**  
   - Ensure every button / link is responsive and functional  
   - Add **ARIA labels** and keyboard navigation support
-- [ ] **Site-wide polish**  
+- [x] **Site-wide polish**  
   - Cross-browser tests (Chrome, Firefox, Safari, Edge)  
   - Page-speed & SEO baseline audit (Lighthouse) 
 
-## 2. Social Media
-- [ ] Daily **maintenance and updates**  
-  - Monitor engagement, respond to interactions, and post regularly
-- [ ] **Campaign highlights** – “Meet the Team”, milestones, BTS posts
-- [ ] **Metrics dashboard** – impressions, CTR, follower growth
+## 2. Social Media Tasks
+
+### 🛠️ Daily Maintenance
+- Check messages and comments
+- Reply to followers
+- Post new meetup activities 
+
+### 📊 Track Performance Using Metricool
+- Keep a dashboard with:
+  - Views (impressions)
+  - Click-through rate (CTR)
+  - Follower growth
 
 ## 3. Documentation
 - [ ] Prepare **handover wiki page**  
