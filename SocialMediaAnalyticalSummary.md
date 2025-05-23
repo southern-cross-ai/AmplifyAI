@@ -1,3 +1,5 @@
+![Number of post](TeamProfilePics/9.png)
+![Posts](TeamProfilePics/10.png)
 ![Impressions](TeamProfilePics/8.png)
 
 📊 Platform Performance Table
