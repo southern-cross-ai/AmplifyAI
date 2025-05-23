@@ -1,3 +1,4 @@
+![Impressions](TeamProfilePics/8.png)
 
 📊 Platform Performance Table
 
