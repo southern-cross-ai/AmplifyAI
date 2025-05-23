@@ -68,15 +68,6 @@
 
 ---
 
-## ✅ Success Metrics
-
-| Area            | Target                                        |
-|-----------------|-----------------------------------------------|
-| Social media    | +15 % followers; average CTR > 3 %            |
-| Documentation   | New maintainer setup ≤ 15 min (user test)     |
-| Client feedback | Post-handover survey ≥ 8 / 10                 |
-
----
 
 ## 🔄 Review & Confirmation
 - Plan reviewed at weekly meetings; minutes stored in GitHub Wiki.  
