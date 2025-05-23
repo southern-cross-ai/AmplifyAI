@@ -1,8 +1,13 @@
+# Social Media Analytical Summary
+## 1. Data Visualizations
+### Figure 1: Number of Posts per Platform
 ![Number of post](TeamProfilePics/9.png)
+### Figure 2: Top Performing Posts
 ![Posts](TeamProfilePics/10.png)
+### Figure 3: Impressions by Platform
 ![Impressions](TeamProfilePics/8.png)
 
-📊 Platform Performance Table
+## 2. 📊 Platform Performance Table
 
 | Platform      | Impressions | Engagement | Posts | Follower Growth | Highlights / Performance Insights                                                                                   | **Future Improvement Directions (with Strategic Focus)**                                                                            |
 | ------------- | ----------- | ---------- | ----- | --------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
