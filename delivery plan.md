@@ -25,9 +25,9 @@
   - Follower growth
 
 ## 3. Documentation
-- [ ] Prepare **handover wiki page**  
+- [x] Prepare **handover wiki page**  
   - Document key processes, tools used, and how to maintain/continue the project  
-- [ ] Complete **social media analysis summary**  
+- [x] Complete **social media analysis summary**  
   - Overview of reach, engagement trends, and performance insights  
 
 
