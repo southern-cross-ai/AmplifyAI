@@ -69,4 +69,4 @@ This week’s focus was preparing and publishing promotional content for our pro
 ---
 
 **Prepared by**: Yuhang Chen  
-**Date**: May 22nd, 2025
+**Date**: May 9th, 2025
